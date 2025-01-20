@@ -1,2 +1,12 @@
-# uni
-It provides features such as searching for universities worldwide, obtaining directions, accessing contact information, powered by Hipo database
+# University Near You
+
+it's using Hipo list, check it out
+https://github.com/Hipo/university-domains-list
+
+- Clean User Interface
+- Optimize SEO
+- Using Huge Database
+- Search, Filters Options
+- Mobile Support 
+
+Looking more to improve it and adding more features.
